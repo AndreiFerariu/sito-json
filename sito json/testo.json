@@ -1,0 +1,45 @@
+{
+    "concettiComuni": {
+      "title": "Concetti Comuni",
+      "description": "Descrizione dei concetti comuni.",
+      "content": "<p>Contenuto relativo ai concetti comuni.</p>",
+      "images": [
+        "images/concetti1.jpg",
+        "images/concetti2.jpg"
+      ]
+    },
+    "concettiComuni2.0": {
+      "title": "Concetti Avanzati",
+      "description": "Descrizione dei concetti avanzati.",
+      "content": "<p>Contenuto relativo ai concetti avanzati.</p>",
+      "images": [
+        "images/avanzati1.jpg",
+        "images/avanzati2.jpg"
+      ]
+    },
+    "glossario": {
+      "title": "Glossario",
+      "description": "Elenco dei termini utilizzati.",
+      "content": "<p>Contenuto del glossario.</p>",
+      "images": [
+        "images/glossario1.jpg"
+      ]
+    },
+    "homepage": {
+      "title": "Homepage",
+      "description": "Benvenuti nella nostra homepage.",
+      "content": "<p>Contenuto della homepage.</p>",
+      "images": [
+        "images/homepage.jpg"
+      ]
+    },
+    "socket": {
+      "title": "Socket",
+      "description": "Informazioni sui socket.",
+      "content": "<p>Contenuto relativo ai socket.</p>",
+      "images": [
+        "images/socket.jpg"
+      ]
+    }
+  }
+  
